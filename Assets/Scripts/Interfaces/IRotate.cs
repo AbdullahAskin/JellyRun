@@ -1,0 +1,4 @@
+interface IRotate
+{
+    void Rotate();
+}

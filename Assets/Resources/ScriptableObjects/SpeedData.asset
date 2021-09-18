@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fea18676a59d81b42a6700372420eb22, type: 3}
+  m_Name: SpeedData
+  m_EditorClassIdentifier: 
+  boxSpeeds:
+  - speedComboType: 0
+    minSpeed: 8
+    maxSpeed: 16
+    velocityIncreaseSpeed: 10
+  - speedComboType: 1
+    minSpeed: 10
+    maxSpeed: 18
+    velocityIncreaseSpeed: 20
+  - speedComboType: 2
+    minSpeed: 12
+    maxSpeed: 22
+    velocityIncreaseSpeed: 25
+  - speedComboType: 3
+    minSpeed: 14
+    maxSpeed: 205
+    velocityIncreaseSpeed: 30
+  - speedComboType: 4
+    minSpeed: 16
+    maxSpeed: 27
+    velocityIncreaseSpeed: 35

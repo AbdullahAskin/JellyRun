@@ -1,0 +1,4 @@
+interface IInputAction
+{
+    void Action();
+}
